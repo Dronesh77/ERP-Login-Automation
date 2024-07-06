@@ -6,7 +6,7 @@ This project automates the login process to an ERP system using Selenium WebDriv
 
 Ensure you have Python 3.x installed. Install dependencies using:
 
-```bash
+
 pip install -r requirements.txt
 
 ### Make sure to set up Chrome WebDriver for Selenium
@@ -41,3 +41,5 @@ python main.py
 ## If you encounter any issues or have suggestions, please open an issue on GitHub.
 
 Replace `<repository-url>` with the actual URL of your GitHub repository and `<repository-name>` with the name of your repository. This template provides comprehensive setup, usage instructions, licensing information, and guidance for contributions and issue reporting. You can now copy this block and paste it directly into your `README.md` file on GitHub.
+
+```bash
